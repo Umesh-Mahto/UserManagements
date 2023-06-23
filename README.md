@@ -8,7 +8,8 @@
 * function used in...
 1. Controller
 2. service
-4. user
+3. repository
+4. model
 
 ## OOP used:-
 * Encapsulation
